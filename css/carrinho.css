@@ -1,0 +1,384 @@
+.divHtml4{
+    background-color: #161d26;
+    width: 70vw;
+    height: auto;
+
+    border: none;
+}
+
+#buttonCarrinhoVoltar{
+position: absolute;
+    margin: 0.5% 0 0 0.7%;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 99px;
+}
+#h1TituloCarrinho{
+ text-align: center;
+ margin-bottom: 20%;
+}
+.divProdutoListado{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+.buttonCarrinhoAdicionar{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+.buttonCarrinhoRemover{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+#h3ValorTotalCarrinho{
+    text-align: center;
+}
+#h3ValorTotalCarrinho2{
+    text-align: center;
+}
+#formasPagamentoCarrinho{
+    text-align: center;
+}
+#buttonHtmlCarrinhoContinuar{
+    display: block;
+    margin: 10% auto 0;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    width: fit-content;
+    height: fit-content;
+    font-size: 130%;
+    border-radius: 999px;
+}
+.aaaaa{
+    text-align: center;
+}
+#pixPadding{
+    padding-right: 5.6%;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) {
+.divHtml4{
+    width: 80%;
+    height: fit-content;
+    background-color: #161d26;
+}
+#buttonCarrinhoVoltar{
+position: absolute;
+    margin: 0.5% 0 0 0.7%;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 99px;
+}
+#h1TituloCarrinho{
+ text-align: center;
+ margin-bottom: 20%;
+}
+.divProdutoListado{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+.buttonCarrinhoAdicionar{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+.buttonCarrinhoRemover{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+#h3ValorTotalCarrinho{
+    text-align: center;
+}
+#h3ValorTotalCarrinho2{
+    text-align: center;
+}
+#formasPagamentoCarrinho{
+    text-align: center;
+}
+#buttonHtmlCarrinhoContinuar{
+    display: block;
+    margin: 10% auto 0;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    width: fit-content;
+    height: fit-content;
+    font-size: 130%;
+    border-radius: 999px;
+    margin-bottom: 5%;
+}
+.aaaaa{
+    text-align: center;
+}
+#pixPadding{
+    padding-right: 5.6%;
+}
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1024px) {
+.divHtml4{
+    width: 65%;
+    height: fit-content;
+    background-color: #161d26;
+}
+#buttonCarrinhoVoltar{
+    margin: 0.5% 0 0 0.7%;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 99px;
+}
+#h1TituloCarrinho{
+ text-align: center;
+ margin-bottom: 20%;
+}
+/* aaa */
+.divProdutoListado{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+.buttonCarrinhoAdicionar{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+.buttonCarrinhoRemover{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+#h3ValorTotalCarrinho{
+    text-align: center;
+}
+#h3ValorTotalCarrinho2{
+    text-align: center;
+}
+#formasPagamentoCarrinho{
+    text-align: center;
+}
+#buttonHtmlCarrinhoContinuar{
+    display: block;
+    margin: 10% auto 0;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    width: fit-content;
+    height: fit-content;
+    font-size: 130%;
+    border-radius: 999px;
+}
+.aaaaa{
+    text-align: center;
+}
+#pixPadding{
+    padding-right: 5.6%;
+}
+}
+
+@media screen and (min-width: 1366px) {
+.divHtml4{
+    background-color: #161d26;
+    width: 55%;
+    height: fit-content;
+    border: none;
+}
+
+/* aaa */
+#buttonCarrinhoVoltar{
+position: absolute;
+    margin: 0.5% 0 0 0.7%;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 99px;
+}
+#h1TituloCarrinho{
+ text-align: center;
+ margin-bottom: 20%;
+}
+.divProdutoListado{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+.buttonCarrinhoAdicionar{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+.buttonCarrinhoRemover{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+#h3ValorTotalCarrinho{
+    text-align: center;
+}
+#h3ValorTotalCarrinho2{
+    text-align: center;
+}
+#formasPagamentoCarrinho{
+    text-align: center;
+}
+#buttonHtmlCarrinhoContinuar{
+    display: block;
+    margin: 10% auto 0;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    width: fit-content;
+    height: fit-content;
+    font-size: 130%;
+    border-radius: 999px;
+}
+.aaaaa{
+    text-align: center;
+}
+#pixPadding{
+    padding-right: 5.6%;
+}
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1440px) {
+.divHtml4{
+    width: 40%;
+    height: fit-content;
+    background-color: #161d26;
+}
+#buttonCarrinhoVoltar{
+position: absolute;
+    margin: 0.5% 0 0 0.7%;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 99px;
+}
+#h1TituloCarrinho{
+ text-align: center;
+ margin-bottom: 20%;
+}
+.divProdutoListado{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+.buttonCarrinhoAdicionar{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+.buttonCarrinhoRemover{
+    bottom: 0;
+    top: 0;
+    margin: auto 0;
+    height: fit-content;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    border-radius: 9px;
+}
+#h3ValorTotalCarrinho{
+    text-align: center;
+}
+#h3ValorTotalCarrinho2{
+    text-align: center;
+}
+#formasPagamentoCarrinho{
+    text-align: center;
+}
+#buttonHtmlCarrinhoContinuar{
+    display: block;
+    margin: 10% auto 0;
+    background-color: #2c333e;
+    color: white;
+    border: none;
+    width: fit-content;
+    height: fit-content;
+    font-size: 130%;
+    border-radius: 999px;
+}
+.aaaaa{
+    text-align: center;
+}
+#pixPadding{
+    padding-right: 5.6%;
+}
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./JavaScript/variaveis.js"></script>
+    <script src="./JavaScript/administrador.js"></script>
+    <script src="./JavaScript/carrinho.js"></script>
+    <script src="./JavaScript/selects.js"></script>
+    <script src="./JavaScript/scripts.js"></script>
+    <script src="./JavaScript/cadastro.js"></script>
+    <script src="./JavaScript/login.js"></script>
+    <link rel="stylesheet" href="./Css/style.css">
+    <link rel="stylesheet" href="./Css/login.css">
+    <link rel="stylesheet" href="./Css/cadastro.css">
+    <link rel="stylesheet" href="./Css/carrinho.css">
+     
+<title>Lock Keys</title>
+</head>
+<body>
+    <header>
+        <h1 id="h1HtmlNome">Lock Keys</h1>
+        <input type="search" id="inputHtmlPesquisa" placeholder="Pesquisar produtos" onchange="inputJsPesquisaFunction()">
+    <br>
+        <select id="selectHtmlPerifericos" onchange="selectJsPerifericosFunction()">
+            <option value="option1">Chaves Steam</option>
+            <option value="option2">Sobrevivência</option>
+            <option value="option3">Rogue Like</option>
+            <option value="option4">RPG</option>
+            <option value="option5">FPS</option>
+            <option value="option6">Construção</option>
+        </select>
+        <select id="selectHtmlPrecos" onchange="selectJsPerifericosFunction()">
+            <option value="option1">Filtrar por preço</option>
+            <option value="option2">Até R$100</option>
+            <option value="option3">Até R$50</option>
+            <option value="option4">Até R$30</option>
+        </select>
+    <br>
+        <button type="button" id="buttonHtmlCarrinho" onclick="buttonJsCarrinho()">Carrinho</button>
+    <br>
+    <div id="divHtmlAutentificacao">
+        <button type="button" id="buttonHtmlCadastro" onclick="buttonJsCadastro()">Cadastro</button>
+        <button type="button" id="buttonHtmlLogar" onclick="buttonJsLogin()">Login</button>
+    </div>
+    </header>
+    <br><br>
+    <div id="divHtml">
+    </div>
+    <br><br>
+    <div id="divHtmlItems">
+
+        
+    </div>
+    
+</body>
+</html>
